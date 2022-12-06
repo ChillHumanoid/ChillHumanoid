@@ -3,4 +3,4 @@
 - 👀 I’m interested in Web Design, Automation, AI, and App Development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript and working on some exciting projects.
 - 💞️ In my free time, I like to hike, ride my motorcycle, and work on training with my one-year-old Great Dane pup.
-- 📫 If you happen to have any advice or general tips for beginner programmers, feel free to reach out to me on [Instagram](https://www.instagram.com/artofcoding.exe/)
+- 📫 Feel free to reach out to me on [Instagram](https://www.instagram.com/artofcoding.exe/)
