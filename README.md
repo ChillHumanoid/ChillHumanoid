@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChillHumanoid, but you can call me Kirsten.
 - 🔮 I'm a self-taught programmer, trying to make it big someday soon!
 - 👀 I’m interested in Web Design, Automation, AI, and App Development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript and working on some exciting projects.
+- 🌱 I’m currently learning about Relational Databases and working on some exciting projects.
 - 💞️ In my free time, I like to hike, ride my motorcycle, and work on training with my one-year-old Great Dane pup.
 - 📫 Feel free to reach out to me on [Instagram](https://www.instagram.com/artofcoding.exe/)
